@@ -1,0 +1,5 @@
+device_id,device_type,device_name
+0,ROV,Calibration
+1,ROV,RX3194-1
+2,ROV,RX6710-3
+3,ROV,RX6199-9

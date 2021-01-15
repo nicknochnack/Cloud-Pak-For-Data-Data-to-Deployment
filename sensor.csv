@@ -1,0 +1,28 @@
+sensor_id,description,low_value,high_value
+1,Oil Pressure,0,1
+2,Air Pressure,0,1
+3,Oil Temperature Celsius,0,1
+4,Ambient Temperature Celsius,0,1
+5,Partial Oxygen Pressure,0,1
+6,Partial Nitrogen Pressure,0,1
+7,Power in Volts,0,1
+8,Current in Amperes,0,1
+9,Throttle,0,1
+10,Lambda Minimum Throttle,0,1
+11,Lambda Maximum Throttle,0,1
+12,Ambient Pressure mPa,0,1
+13,Compressor Estimated,0,1
+14,Compressor Actual,0,1
+15,Water Pump Pressure Pa,0,1
+16,Turbine 1 RPM,0,1
+17,Turbine 2 RPM,0,1
+18,Torque Correction 1,0,1
+19,Torque Correction 2,0,1
+20,Spark Power Volts,0,1
+21,Spark Current Amperes,0,1
+22,Air Tank Gauge m3,0,1
+23,Wheel 1 Speed RPM,0,1
+24,Wheel 2 Speed RPM,0,1
+25,Wheel 3 Speed RPM,0,1
+27,Wheel Front Speed RPM,0,1700
+68,Wheel Front Temp Celsius,0,180
